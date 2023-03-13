@@ -1,0 +1,279 @@
+{
+  "users": [
+    {
+      "idx": "VCyFOk4do",
+      "email": "1111@pknu.ac.kr",
+      "pw": "$2b$10$JaIK5yowQqre1vJ2EYr5Pey09mxBlaM/XXF/.mjImn0jiVWmFMB6W",
+      "displayName": "정수민",
+      "password": "$2b$10$1wCalXsF4JWL2/wT/DGxLujmrDIf8j53bwv7oc5OyxKiGuu9SiaLC"
+    },
+    {
+      "idx": "bxBS5qKg-",
+      "id": "qqqqqtest1@naver.com",
+      "pw": "$2b$10$81ugcw9GQ4MbDR6UXHBCNetdszpynGhjpLdC9WXsjbTLLOr8kZBXK",
+      "room": "bxBS5qKg--KF9-SmViW",
+      "gender": "Man",
+      "idealPersonality": "1221414354",
+      "personality": "1221212131"
+    },
+    {
+      "idx": "VHah4NVPY",
+      "id": "test2",
+      "pw": "$2b$10$ZAocvPBiucOP2tx19xYP9u.E88NUkotEW.XAVXfy3SM6SLMEx5dsq",
+      "room": "e",
+      "gender": "Woman",
+      "idealPersonality": "2122121222",
+      "personality": "2122323242",
+      "partnerIdx": "e",
+      "partnerName": "e"
+    },
+    {
+      "idx": "XrUN8JNWo",
+      "email": "test@1",
+      "pw": "$2b$10$KLJ8aUM0943KDY.i7HfsKeGWXSYmSTuJVsq3QQUS9b2rsYR8.a05K",
+      "displayName": "손영호",
+      "room": "",
+      "gender": "Man",
+      "idealPersonality": "2221212312",
+      "personality": "2122313222",
+      "partnerIdx": "",
+      "partnerName": ""
+    },
+    {
+      "idx": "GC85-r_TI",
+      "email": "tnalscherry6@naver.com",
+      "displayName": "정수민",
+      "facebookId": "3230901393833694",
+      "gender": "on"
+    },
+    {
+      "idx": "qGvIp04ag",
+      "email": "2222@pknu.ac.kr",
+      "pw": "$2b$10$F5.z9somPCYoTlsZGglpxenlLAx6OMHEleIHarJhlTD2RkgyLC9Oa",
+      "displayName": "정수민",
+      "gender": "on"
+    },
+    {
+      "idx": "AVMzAmjMc",
+      "email": "5555@pknu.ac.kr",
+      "pw": "$2b$10$6kCuSJJyv8wMD07ggXQIgu5BIKQgkbJR3w5/PgFZidH1FKaRHj.b.",
+      "displayName": "정수민",
+      "gender": "on"
+    },
+    {
+      "idx": "WDPRmf5K-",
+      "email": "test@naver.com",
+      "pw": "$2b$10$ahLvYtKRZez9iOjw8Rmf2ea31p5wwbeaG7ZfqvTgpDC2yYkuNfRpy",
+      "displayName": "test1",
+      "room": "",
+      "idealPersonality": "2122221312",
+      "personality": "2221423344",
+      "partnerIdx": "",
+      "partnerName": "",
+      "gender": "Man"
+    },
+    {
+      "idx": "KF9-SmViW",
+      "email": "test1@naver.com",
+      "pw": "$2b$10$GJuidI6BSCDZvu/1Nv.Tm.0blhvkzkmlf7/CO6jXAyW/aqjUW4Bcq",
+      "displayName": "test2",
+      "room": "",
+      "idealPersonality": "2121313342",
+      "personality": "1111211244",
+      "partnerIdx": "",
+      "partnerName": "",
+      "gender": "Man"
+    },
+    {
+      "idx": "P1UWFdRfu",
+      "email": "test123@naver.com",
+      "pw": "$2b$10$iV4jsbcJk.UFDH7Uxj.EK.pm/W5X1vn6xuMzQem9cB86svenucA12",
+      "displayName": "qwwqqwwq",
+      "gender": "Man",
+      "room": "",
+      "partnerIdx": "",
+      "partnerName": ""
+    },
+    {
+      "idx": "6FL7Ce79X",
+      "email": "testeee@naver.com",
+      "pw": "$2b$10$5l8qdqmUj1Ybt9PYkDdF6eEciEvJFISqxpKo1G.C4wgjr83Mqo0Ha",
+      "displayName": "손영호",
+      "gender": "on"
+    },
+    {
+      "idx": "pyZaJg3aA",
+      "email": "nice@naver.com",
+      "pw": "$2b$10$ycFA0uXBKG0qUL2GWMVR4OpbtfB/HnHZoWj/PFMs.p4HL4OJ5YXum",
+      "displayName": "정수민",
+      "gender": "on",
+      "room": "",
+      "idealPersonality": "",
+      "personality": "",
+      "partnerIdx": "",
+      "partnerName": "",
+      "password": "$2b$10$l/ClSlFbSdrt7BDLAYVai.lTyUS5D61GQ37Y697A90tKy2YDxsy3e"
+    },
+    {
+      "idx": "_myOnVY0K",
+      "email": "good@naver.com",
+      "pw": "$2b$10$OQVTQDpV/2xZJHT423oNPu4x4WxwxAzKqt8uxi1/xevSvC5LUNp/O",
+      "displayName": "sumin",
+      "gender": "Woman",
+      "room": "_myOnVY0K-wM4clrdWu",
+      "idealPersonality": "",
+      "personality": "",
+      "partnerIdx": "wM4clrdWu",
+      "partnerName": "손영호1",
+      "password": "$2b$10$hsO8tOkmmNeImg..k.DtMOx.MwE7uAX/ZGpwAot1zMlKXDQPQGAeq"
+    },
+    {
+      "idx": "oX_7lhRqC",
+      "email": "first@naver.com",
+      "pw": "$2b$10$MICeM8IH4RkFvZGBI6iAz.8BzCjxx60BCWsPrOscP.sKOX3du7Sae",
+      "displayName": "정수민",
+      "gender": "Woman",
+      "room": "",
+      "idealPersonality": "",
+      "personality": "",
+      "partnerIdx": "",
+      "partnerName": ""
+    },
+    {
+      "idx": "MlDRUam9w",
+      "email": "hello@naver.com",
+      "pw": "$2b$10$9nA4eV.OCXkt032qcce4qO2m9RZZl07941FrKJFdz3cDHHI4y362e",
+      "displayName": "정수민",
+      "gender": "Woman",
+      "room": "",
+      "idealPersonality": "",
+      "personality": "",
+      "partnerIdx": "",
+      "partnerName": "",
+      "mbti": "",
+      "password": "$2b$10$5uBj1MZKfVo8oKRQlEDx.uNwKcq1Q1qTKYyOuFE6u9YyqjFTltJYa"
+    },
+    {
+      "idx": "Xi26bnX0j",
+      "email": "tnalscherry6@naver.com",
+      "displayName": "정수민",
+      "facebookId": "3230901393833694",
+      "room": "",
+      "idealPersonality": "",
+      "personality": "",
+      "partnerIdx": "",
+      "partnerName": "",
+      "mbti": ""
+    },
+    {
+      "idx": "nhqhPHw1v",
+      "email": "tnalscherry6@naver.com",
+      "displayName": "정수민",
+      "facebookId": "3230901393833694",
+      "room": "",
+      "idealPersonality": "",
+      "personality": "",
+      "partnerIdx": "",
+      "partnerName": "",
+      "mbti": ""
+    },
+    {
+      "idx": "fUza0UYAj",
+      "email": "tnalscherry6@naver.com",
+      "displayName": "정수민",
+      "facebookId": "3230901393833694",
+      "room": "",
+      "idealPersonality": "",
+      "personality": "",
+      "partnerIdx": "",
+      "partnerName": "",
+      "mbti": ""
+    },
+    {
+      "idx": "fI8hlGK7S",
+      "email": "3333@naver.com",
+      "pw": "$2b$10$jqLCH9JVmGsRLtvSlDXBeO2pqSvzbr8LwVJ0xgSFyi0pc8EDGEN6u",
+      "displayName": "정수민",
+      "gender": "Woman",
+      "room": "",
+      "idealPersonality": "",
+      "personality": "",
+      "partnerIdx": "",
+      "partnerName": "",
+      "mbti": ""
+    },
+    {
+      "idx": "WNILKpe-V",
+      "email": "test12312355551@naver.com",
+      "pw": "$2b$10$rvKRU5EKPjqbVBP/A0dkEe9nRtg4tXBsxh4oZZXW6IOYMp7jFcmba",
+      "displayName": "hhhhh",
+      "gender": "Woman",
+      "room": "",
+      "idealPersonality": "",
+      "personality": "",
+      "partnerIdx": "",
+      "partnerName": "",
+      "mbti": ""
+    },
+    {
+      "idx": "napIIj-lQ",
+      "email": "testtttttesteststet@naver.com",
+      "pw": "$2b$10$N.H.IMpDSg5r6T/WAiDw3.WfIWfT5Y2/EeANfBc69.zwf9nv1nDT2",
+      "displayName": "qweqweqwe",
+      "gender": "genderWoman",
+      "room": "",
+      "idealPersonality": "",
+      "personality": "",
+      "partnerIdx": "",
+      "partnerName": "",
+      "mbti": ""
+    },
+    {
+      "idx": "-8XTd0fCz",
+      "email": "kkkk@naver.com",
+      "pw": "$2b$10$N1aG4WyM50WW1hn7TiwNaOe5sOalesVsBnjcyACql9sDgA2XqNTwm",
+      "displayName": "정수민",
+      "gender": "Woman",
+      "room": "",
+      "idealPersonality": "",
+      "personality": "",
+      "partnerIdx": "",
+      "partnerName": "",
+      "mbti": ""
+    },
+    {
+      "idx": "buYhH6pAO",
+      "email": "indi@naver.com",
+      "pw": "$2b$10$t7zHjXDUaEPd.1Z/mownmOdvgLF1co1CH81VWqEVT/sJiIR/HPky2",
+      "displayName": "정수민",
+      "gender": "Woman",
+      "room": "",
+      "idealPersonality": "",
+      "personality": "",
+      "partnerIdx": "",
+      "partnerName": "",
+      "mbti": ""
+    }
+  ],
+  "files": [],
+  "msg": [
+    {
+      "room": "testRomm",
+      "person": "jq-hMIkyT",
+      "time": "16:22",
+      "msg": "123"
+    },
+    {
+      "room": "testRomm",
+      "person": "wM4clrdWu",
+      "time": "16:29",
+      "msg": "rㄱㄱㄱㄱ"
+    },
+    {
+      "room": "testRomm",
+      "person": "wM4clrdWu",
+      "time": "16:29",
+      "msg": "ㄱㄱㄱㄱㄱㄱㄱㄱ"
+    }
+  ]
+}
